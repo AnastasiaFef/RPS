@@ -1,0 +1,12 @@
+.box{
+	border: 1px blue solid;
+	margin-top: 15px;
+	padding: 10px;
+}
+.input-group{
+	width: 50%;
+	margin: auto;
+}
+.game-name{
+	text-align: center;
+}
